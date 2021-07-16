@@ -73,8 +73,9 @@ O site deverá apresentar:
 #### Tasks
 - [ ] Continuação da aplicação do bootstrap. [2 pontos]
 - [ ] Revisão de texto e posicionamento de imagens [1 ponto]
-- [ ] Revisão da responsividade do site [2 pontos]
-- [ ] Validação do site [3 pontos]
+- [ ] Revisão da responsividade do site [1 pontos]
+- [ ] Validação do site [4 pontos]
 	- [ ] Testes de usabilidade [2 pontos]
 	- [ ] Apresentação do site à um usuário externo [1 ponto]
+    - [ ] Análise e revisão dos resultados da validação [1 ponto]
 ***
