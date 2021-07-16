@@ -1,6 +1,6 @@
 # queijaria-dakota
 
-Trilha Hacker XP #38 - [Desafio Individual] 1 <br />
+Trilha Hacker XP #38 - [Desafio Individual] (https://github.com/pedroborgespj/queijaria-dakota/tree/main/descricao-desafio) 1 <br />
 Projeto de loja virtual - Queijaria Dakota
 
 ![Pensamentos sobre queijo](https://cdn.pensador.com/img/frase/av/er/avery_aames_a_vida_e_maravilhosa_queijo_a_torna_melhor_le96lzm.jpg)
