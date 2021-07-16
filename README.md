@@ -6,7 +6,7 @@ Projeto de loja virtual - Queijaria Dakota
 ![Pensamentos sobre queijo](https://cdn.pensador.com/img/frase/av/er/avery_aames_a_vida_e_maravilhosa_queijo_a_torna_melhor_le96lzm.jpg)
 
 ## Product Goal
-Construir um site responsivo com um catálogo de produtos.
+Construir um site responsivo para a Queijaria Dakota com um catálogo de seus produtos. <br />
 
 ## Product Backlog
 O site deverá apresentar:
