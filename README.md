@@ -1,9 +1,9 @@
 # queijaria-dakota
 
-Trilha Hacker XP #38 - Desafio Individual 1 <br />
+Trilha Hacker XP #38 - [Desafio Individual] 1 <br />
 Projeto de loja virtual - Queijaria Dakota
 
-![enter image description here](https://cdn.pensador.com/img/frase/av/er/avery_aames_a_vida_e_maravilhosa_queijo_a_torna_melhor_le96lzm.jpg)
+![Pensamentos sobre queijo](https://cdn.pensador.com/img/frase/av/er/avery_aames_a_vida_e_maravilhosa_queijo_a_torna_melhor_le96lzm.jpg)
 
 ## Product Goal
 Construir um site responsivo com um catálogo de produtos.
