@@ -1,6 +1,6 @@
 # queijaria-dakota
 
-Trilha Hacker XP #38 - Desafio Individual 1
+Trilha Hacker XP #38 - Desafio Individual 1 <br />
 Projeto de loja virtual - Queijaria Dakota
 
 ![enter image description here](https://cdn.pensador.com/img/frase/av/er/avery_aames_a_vida_e_maravilhosa_queijo_a_torna_melhor_le96lzm.jpg)
@@ -27,7 +27,7 @@ O site deverá apresentar:
 #### Tasks
 - [X]  Criação do repositório do Github [1 ponto]
 - [X] Criação das tarefas agrupamento das tarefas em sprints - estimativa [3 pontos]
-
+***
 
 ### Sprint 2 - 16/07 a 19/07 - 10 pontos
 
@@ -44,6 +44,7 @@ O site deverá apresentar:
 	- [ ] Página descrição dos produtos [2 pontos]
 	- [ ] Página informações instucionais [1 ponto]
 	- [ ] Página Contatos [1 ponto]
+***
 
 ### Sprint 3 - 19/07 a 22/07 - 18 pontos
 
@@ -58,9 +59,10 @@ O site deverá apresentar:
 - [ ] Estilização e posicionamento das páginas [11 pontos]
 	- [ ] Página principal [4 pontos]
 	- [ ] Página descrição dos produtos [3 pontos]
-	- [ ] Página informações institucionais [2 ponto]
-	- [ ] Página Contatos [2 ponto]
-- [ ] Entendimento inicial e aplicação Bootstrap.
+	- [ ] Página informações institucionais [2 pontos]
+	- [ ] Página Contatos [2 pontos]
+- [ ] Entendimento inicial e aplicação Bootstrap [2 pontos]
+***
 
 ### Sprint 4 - 22/07 a 23/07 - 8 pontos
 
@@ -75,3 +77,4 @@ O site deverá apresentar:
 - [ ] Validação do site [3 pontos]
 	- [ ] Testes de usabilidade [2 pontos]
 	- [ ] Apresentação do site à um usuário externo [1 ponto]
+***
