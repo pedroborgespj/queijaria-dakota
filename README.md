@@ -22,7 +22,7 @@ O site deverá apresentar:
 ### Sprint 1 - 14/07 a 16/07 - 4 pontos
 
 #### Sprint Goal
--   Criar Repositório no Github contendo as sprints do projeto, com cada sprint tendo seu objetivo claro suas respectivias tarefas.
+-   Criar Repositório no Github contendo as sprints do projeto, com cada sprint tendo seu objetivo claro e suas respectivias tarefas.
 
 #### Tasks
 - [X]  Criação do repositório do Github [1 ponto]
