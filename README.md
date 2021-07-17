@@ -35,11 +35,10 @@ O site deverá apresentar:
 -   Criar esqueleto HTML com textos e imagens
 
 #### Tasks
-- [ ] Coleta de imagens para o site [1 ponto]
-- [ ] Criação do esboço do site baseado em outras lojas virtuais [1 ponto]
+- [X] Coleta de imagens para o site [1 ponto]
+- [X] Criação do esboço do site baseado em outras lojas virtuais [1 ponto]
 - [ ] Criação das páginas [8 pontos]
-	- [ ] Header (todas as páginas) [1 ponto]
-	- [ ] Footer (todas as páginas) [1 ponto]
+	- [ ] Header (todas as páginas) [2 pontos]
 	- [ ] Página principal [2 pontos]
 	- [ ] Página descrição dos produtos [2 pontos]
 	- [ ] Página informações instucionais [1 ponto]
@@ -54,10 +53,9 @@ O site deverá apresentar:
 
 #### Tasks
 - [ ] Avaliação da paleta de cores para o site [1 ponto]
-- [ ] Estilização e posicionamento header [2 pontos]
-- [ ] Estilização e posicionamento footer [2 pontos]
-- [ ] Estilização e posicionamento das páginas [11 pontos]
-	- [ ] Página principal [4 pontos]
+- [ ] Estilização e posicionamento header [3 pontos]
+- [ ] Estilização e posicionamento das páginas [12 pontos]
+	- [ ] Página principal [5 pontos]
 	- [ ] Página descrição dos produtos [3 pontos]
 	- [ ] Página informações institucionais [2 pontos]
 	- [ ] Página Contatos [2 pontos]
