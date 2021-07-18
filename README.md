@@ -39,11 +39,11 @@ O site deverá apresentar:
 - [X] Criação do esboço do site baseado em outras lojas virtuais [1 ponto]
 - [ ] Criação das páginas [8 pontos]
 	- [X] Header (todas as páginas) [1 ponto]
-	- [ ] Footer (todas as páginas) [1 ponto]
+	- [X] Footer (todas as páginas) [1 ponto]
 	- [X] Página principal [2 pontos]
 	- [ ] Página descrição dos produtos [2 pontos]
-	- [ ] Página informações instucionais [1 ponto]
-	- [ ] Página Contatos [1 ponto]
+	- [X] Página Sobre Nós [1 ponto]
+	- [X] Página Contatos [1 ponto]
 ***
 
 ### Sprint 3 - 19/07 a 22/07 - 18 pontos
