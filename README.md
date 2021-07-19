@@ -37,11 +37,11 @@ O site deverá apresentar:
 #### Tasks
 - [X] Coleta de imagens para o site [1 ponto]
 - [X] Criação do esboço do site baseado em outras lojas virtuais [1 ponto]
-- [ ] Criação das páginas [8 pontos]
+- [X] Criação das páginas [8 pontos]
 	- [X] Header (todas as páginas) [1 ponto]
 	- [X] Footer (todas as páginas) [1 ponto]
 	- [X] Página principal [2 pontos]
-	- [ ] Página descrição dos produtos [2 pontos]
+	- [X] Página descrição dos produtos [2 pontos]
 	- [X] Página Sobre Nós [1 ponto]
 	- [X] Página Contatos [1 ponto]
 ***
@@ -54,7 +54,7 @@ O site deverá apresentar:
 
 #### Tasks
 - [ ] Avaliação da paleta de cores para o site [1 ponto]
-- [ ] Estilização e posicionamento header [3 pontos]
+- [ ] Estilização e posicionamento header e footer [3 pontos]
 - [ ] Estilização e posicionamento das páginas [12 pontos]
 	- [ ] Página principal [5 pontos]
 	- [ ] Página descrição dos produtos [3 pontos]
