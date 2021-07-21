@@ -1,9 +1,9 @@
-#categorias {
+.categorias {
     margin-top: 30px;
     margin-bottom: 30px;
 }
 
-#categorias h2 {
+.categorias h2 {
     color: rgb(177, 177, 36);
     padding-bottom: 30px;
 }
@@ -11,4 +11,11 @@
 .cartoes {
     padding: 12px;
 
+}
+
+.footage {
+    border-top: 3px solid #e4b423;
+    border-bottom: 3px solid #e4b423;
+    margin-top: 20px;
+    margin-bottom: 5px;
 }
