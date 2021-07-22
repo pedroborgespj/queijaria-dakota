@@ -33,3 +33,8 @@
 footer {
     margin: 20px;
 }
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
