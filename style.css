@@ -5,12 +5,11 @@
 .categorias {
     margin-top: 30px;
     margin-bottom: 30px;
-    background-color: black;
+    background-color: #212529;
 }
 
-.categorias h2 {
-    color: rgb(177, 177, 36);
-    padding-bottom: 30px;
+.categorias button {
+    margin: 10px;
 }
 
 .categorias a {
