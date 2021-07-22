@@ -8,16 +8,12 @@
     background-color: #212529;
 }
 
-.categorias button {
-    margin: 10px;
-}
-
 .categorias h2 {
     padding-top: 15px;
 }
 
 .categorias a {
-    box-sizing: border-box;
+    margin: 10px;
 }
 
 .cartoes {
