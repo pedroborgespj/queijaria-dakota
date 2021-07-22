@@ -21,11 +21,15 @@
 
 }
 
-.card-img-bottom {
-    padding-bottom: 20px;
-}
-
 .breadcrumb .breadcrumb-item a {
     text-decoration: none;
     color: #FFC107;
+}
+
+.card button {
+    background: #cda23e;
+}
+
+footer {
+    margin: 20px;
 }
