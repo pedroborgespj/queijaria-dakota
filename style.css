@@ -24,3 +24,8 @@
 .card-img-bottom {
     padding-bottom: 20px;
 }
+
+.breadcrumb .breadcrumb-item a {
+    text-decoration: none;
+    color: #FFC107;
+}
