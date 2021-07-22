@@ -52,3 +52,7 @@ footer ul {
     width:100%;
     position:absolute;
 }
+
+.description {
+    text-align: justify;
+}
