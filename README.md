@@ -37,12 +37,12 @@ O site deverá apresentar:
 #### Tasks
 - [X] Coleta de imagens para o site [1 ponto]
 - [X] Criação do esboço do site baseado em outras lojas virtuais [1 ponto]
-- [ ] Criação das páginas [8 pontos]
-	- [ ] Header (todas as páginas) [2 pontos]
-	- [ ] Página principal [2 pontos]
-	- [ ] Página descrição dos produtos [2 pontos]
-	- [ ] Página informações instucionais [1 ponto]
-	- [ ] Página Contatos [1 ponto]
+- [X] Criação das páginas [8 pontos]
+	- [X] Header (todas as páginas) [2 pontos]
+	- [X] Página principal [2 pontos]
+	- [X] Página descrição dos produtos [2 pontos]
+	- [X] Página informações instucionais [1 ponto]
+	- [X] Página Contatos [1 ponto]
 ***
 
 ### Sprint 3 - 19/07 a 22/07 - 18 pontos
@@ -52,14 +52,14 @@ O site deverá apresentar:
 	- As páginas devem implementar bootstrap.
 
 #### Tasks
-- [ ] Avaliação da paleta de cores para o site [1 ponto]
-- [ ] Estilização e posicionamento header [3 pontos]
-- [ ] Estilização e posicionamento das páginas [12 pontos]
-	- [ ] Página principal [5 pontos]
-	- [ ] Página descrição dos produtos [3 pontos]
-	- [ ] Página informações institucionais [2 pontos]
-	- [ ] Página Contatos [2 pontos]
-- [ ] Entendimento inicial e aplicação Bootstrap [2 pontos]
+- [X] Avaliação da paleta de cores para o site [1 ponto]
+- [X] Estilização e posicionamento header [3 pontos]
+- [X] Estilização e posicionamento das páginas [12 pontos]
+	- [X] Página principal [5 pontos]
+	- [X] Página descrição dos produtos [3 pontos]
+	- [X] Página informações institucionais [2 pontos]
+	- [X] Página Contatos [2 pontos]
+- [X] Entendimento inicial e aplicação Bootstrap [2 pontos]
 ***
 
 ### Sprint 4 - 22/07 a 23/07 - 8 pontos
@@ -69,7 +69,7 @@ O site deverá apresentar:
 	- Realizar acabamento final e testes.
 
 #### Tasks
-- [ ] Continuação da aplicação do bootstrap. [2 pontos]
+- [X] Continuação da aplicação do bootstrap. [2 pontos]
 - [ ] Revisão de texto e posicionamento de imagens [1 ponto]
 - [ ] Revisão da responsividade do site [1 pontos]
 - [ ] Validação do site [4 pontos]
