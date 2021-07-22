@@ -12,6 +12,10 @@
     margin: 10px;
 }
 
+.categorias h2 {
+    padding-top: 15px;
+}
+
 .categorias a {
     box-sizing: border-box;
 }
