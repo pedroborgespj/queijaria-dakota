@@ -5,11 +5,16 @@
 .categorias {
     margin-top: 30px;
     margin-bottom: 30px;
+    background-color: black;
 }
 
 .categorias h2 {
     color: rgb(177, 177, 36);
     padding-bottom: 30px;
+}
+
+.categorias a {
+    box-sizing: border-box;
 }
 
 .cartoes {
