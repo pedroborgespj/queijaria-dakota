@@ -18,17 +18,16 @@
 
 .cartoes {
     padding: 12px;
-
 }
 
 .breadcrumb .breadcrumb-item a {
     text-decoration: none;
-    color: #FFC107;
+    color: #CDA23E;
 }
 
-.card button {
+/* .card button {
     background: #cda23e;
-}
+} */
 
 footer {
     margin: 20px;
