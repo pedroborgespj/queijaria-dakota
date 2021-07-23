@@ -75,5 +75,5 @@ O site deverá apresentar:
 - [X] Validação do site [4 pontos]
 	- [X] Testes de usabilidade [2 pontos]
 	- [X] Apresentação do site à um usuário externo [1 ponto]
-    	- [X] Análise e revisão dos resultados da validação [1 ponto]
+	- [X] Análise e revisão dos resultados da validação [1 ponto]
 ***
